@@ -28,4 +28,5 @@ example: ./proxyrabbit http 100 RU all all
 Description: ProxyRabbit will scrape available proxies, test them, and store
 them in proxychains.conf file for you. Depending on your choice, program will
 add proxies to existing file, display them in console, or backup old proxychains.conf
-and create minimal one for you with new proxies.```
+and create minimal one for you with new proxies.
+```
