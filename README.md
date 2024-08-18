@@ -1,8 +1,8 @@
 # ProxyRabbit
-### Simple tool to scrape proxy api, test if they alive and display, or 
-### save them for you in a config file. You can choose type of proxies (http,
-### socks4, socks5 [not always available], all), timeout up to 10 000ms, coutry
-### in alpha 2 ISO format, ssl support, and anonymity level.
+Simple tool to scrape proxy api, test if they alive and display, or 
+save them for you in a config file. You can choose type of proxies (http,
+socks4, socks5 [not always available], all), timeout up to 10 000ms, coutry
+in alpha 2 ISO format, ssl support, and anonymity level.
 
 Note: used api https://proxyscrape.com/
 
